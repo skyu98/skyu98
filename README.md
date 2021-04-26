@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+## This is **Xiao Yu**'s profile!
+I ❤️ C/C++ && server
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skyu98&hide=python,html,css&bg_color=071A2C&text_color=FFFFFF" alt="chanchann's top langs"/>
 </p>
 <!--
